@@ -3,7 +3,7 @@
 
 This repository contains a supply chain analysis project that was done using Python, pandas, matplotlib, and seaborn. The goal of this project was to analyze a supply chain dataset and provide insights to help optimize the supply chain process.
 
-# Dataset
+## Dataset
 The dataset used in this project is data about the supply chain of a Fashion and Beauty startup. 
 
 # Requirements
